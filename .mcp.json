@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "codeatlas": {
+      "type": "http",
+      "url": "https://codeatlas.com.br/mcp"
+    },
+    "codeatlas-docs": {
+      "type": "http",
+      "url": "https://codeatlas.com.br/mcp/docs"
+    }
+  }
+}

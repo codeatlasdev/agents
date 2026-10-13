@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "codeatlas-agent-tools",
+  "version": "1.0.0",
+  "description": "CodeAtlas discovery skills and read-only MCP server for AI agents.",
+  "author": { "name": "CodeAtlas", "email": "contato@codeatlas.com.br", "url": "https://codeatlas.com.br/" },
+  "homepage": "https://codeatlas.com.br/docs",
+  "repository": "https://github.com/codeatlasdev/agents",
+  "license": "MIT",
+  "keywords": ["codeatlas", "digital-transformation", "ai-automation", "mcp", "api"]
+}
