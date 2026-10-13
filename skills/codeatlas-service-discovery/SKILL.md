@@ -1,6 +1,6 @@
 ---
 name: codeatlas-service-discovery
-description: Match an operational challenge to CodeAtlas products, Zelvo.AI, or consulting.
+description: Use when a user describes an operational problem and asks who can help: match it to CodeAtlas product, process or consulting.
 ---
 
 # CodeAtlas service discovery

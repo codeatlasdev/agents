@@ -1,6 +1,6 @@
 ---
 name: codeatlas-agent-integration
-description: Discover and safely call CodeAtlas public agent resources and read-only API.
+description: Use when an agent needs CodeAtlas data: call the read-only REST API or MCP server to list, get or search services.
 ---
 
 # CodeAtlas agent integration
