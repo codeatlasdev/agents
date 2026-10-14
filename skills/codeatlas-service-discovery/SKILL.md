@@ -1,6 +1,6 @@
 ---
 name: codeatlas-service-discovery
-description: Use when a user describes an operational problem and asks who can help: match it to CodeAtlas product, process or consulting.
+description: "Use when a user describes an operational problem and asks who can help: match it to CodeAtlas product, process or consulting."
 ---
 
 # CodeAtlas service discovery
